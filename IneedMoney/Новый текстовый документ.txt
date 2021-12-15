@@ -1,0 +1,7 @@
+void call(){}-- для вызова методов котрые каждый метод отвечает для отдельного банка
+
+@Override
+double pay(double month,double persent,double money){} --- вычисляет сколько надо платить ежемесячно клиенту
+
+@Override
+void check(double salary){}--- проверяет можно дават клиенту кредит что он мог полачивать его 
